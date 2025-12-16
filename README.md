@@ -1,22 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=ABHISHEK%20GIRI&fontSize=80&fontColor=fff&animation=blinking&fontAlignY=45&desc=🚀%20Innovating%20Tomorrow's%20Technology%20Today%20🚀&descAlignY=65&descAlign=50&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ABHISHEK%20GIRI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-ML%20Engineer&descAlignY=60&descAlign=50&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔥+Elite+Full-Stack+Developer;🧠+AI-ML+Research+Scientist;⚡+IoT+Systems+Architect;🎯+Competitive+Programming+Master;💎+Code+Optimization+Wizard;🌟+Innovation+Engineer;&font=JetBrains%20Mono&center=true&width=800&height=70&color=00ff41&vCenter=true&pause=800&size=32&weight=700" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI-ML+Engineer;Software+Architect;Problem+Solver;Tech+Innovator;&font=JetBrains%20Mono&center=true&width=600&height=60&color=00ff41&vCenter=true&pause=1000&size=28&weight=600" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
-  Welcome to My Code Universe
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h2 align="center">Welcome to My Professional Portfolio</h2>
 
 ---
 
@@ -26,31 +20,28 @@
 <tr>
 <td width="60%">
 
-### 🎯 **Elite Developer Profile**
+### About Me
 
 ```python
 class AbhishekGiri:
     def __init__(self):
         self.name = "Abhishek Giri"
-        self.role = "Full-Stack Developer & AI Researcher"
+        self.role = "Full-Stack Developer & AI Engineer"
         self.education = "B.Tech CSE (AI & ML) | GEHU (2023-2027)"
-        self.location = "India 🇮🇳"
+        self.location = "India"
         self.languages = ["Python", "Java", "JavaScript", "C++", "TypeScript"]
         
-    def current_mission(self):
+    def current_focus(self):
         return [
-            "🚀 Building next-gen scalable applications",
-            "🤖 Advancing AI/ML research frontiers", 
-            "🌐 Architecting IoT ecosystems",
-            "🏆 Dominating competitive programming",
-            "💡 Creating innovative tech solutions"
+            "Building scalable web applications",
+            "AI/ML research and development", 
+            "IoT systems architecture",
+            "Competitive programming",
+            "Open source contributions"
         ]
     
-    def life_motto(self):
-        return "Code with passion, innovate with purpose! 🔥"
-
-developer = AbhishekGiri()
-print(f"Mission: {developer.current_mission()}")
+    def expertise(self):
+        return "Full-Stack Development | Machine Learning | System Design"
 ```
 
 </td>
@@ -58,13 +49,13 @@ print(f"Mission: {developer.current_mission()}")
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%">
 
-### 🏆 **Elite Achievements**
-- 🥇 **National Hackathon Champion**
-- 🎖️ **AI/ML Competition Finalist**  
-- 💻 **500+ LeetCode Problems Solved**
-- 🌟 **Open Source Contributor**
-- 📚 **Tech Community Leader**
-- 🚀 **Innovation Award Winner**
+### Key Achievements
+- National Hackathon Winner
+- AI/ML Competition Finalist  
+- 500+ LeetCode Problems Solved
+- Active Open Source Contributor
+- Tech Community Leader
+- Innovation Award Recipient
 
 </td>
 </tr>
@@ -75,25 +66,21 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
-    🔥 TECH ARSENAL 🔥
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
-  </h1>
+  <h2>Technical Skills</h2>
 </div>
 
 <div align="center">
 
-### ⚡ **Programming Languages**
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,c,go,rust&theme=dark&perline=8" />
 
-### 🌐 **Frontend Technologies**
+### Frontend Technologies
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark&perline=8" />
 
-### 🔧 **Backend & Frameworks**
+### Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,spring,nestjs,graphql&theme=dark&perline=8" />
 
-### 🤖 **AI/ML & Data Science**
+### AI/ML & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
 <br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -101,10 +88,10 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-### 🗄️ **Databases & Cloud**
+### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,gcp,firebase,docker&theme=dark&perline=8" />
 
-### 🛠️ **DevOps & Tools**
+### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino,raspberrypi,linux&theme=dark&perline=8" />
 
 </div>
@@ -114,11 +101,7 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-    📊 GITHUB ANALYTICS DASHBOARD 📊
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-  </h1>
+  <h2>GitHub Analytics</h2>
 </div>
 
 <div align="center">
@@ -139,11 +122,7 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
-    🏆 ACHIEVEMENT GALLERY 🏆
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
-  </h1>
+  <h2>Achievements & Trophies</h2>
 </div>
 
 <div align="center">
@@ -151,7 +130,7 @@ print(f"Mission: {developer.current_mission()}")
 </div>
 
 <div align="center">
-  <h2>🧩 LeetCode Mastery Dashboard</h2>
+  <h3>LeetCode Progress</h3>
   <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=dark&font=Karma&ext=contest&width=600" />
 </div>
 
@@ -160,11 +139,7 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
-    🌐 CONNECT & COLLABORATE 🌐
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
-  </h1>
+  <h2>Connect With Me</h2>
 </div>
 
 <div align="center">
@@ -202,46 +177,42 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">
-    💎 ELITE EXPERTISE MATRIX 💎
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">
-  </h1>
+  <h2>Core Expertise</h2>
 </div>
 
 <table align="center">
 <tr>
 <td width="33%">
 
-### 🧠 **AI/ML Mastery**
-- 🔥 Deep Learning & Neural Networks
-- 👁️ Computer Vision & Image Processing
-- 🗣️ Natural Language Processing
-- 📊 Data Science & Advanced Analytics
-- 🚀 MLOps & Model Deployment
-- 🎯 Predictive Modeling
+### AI/ML Expertise
+- Deep Learning & Neural Networks
+- Computer Vision & Image Processing
+- Natural Language Processing
+- Data Science & Analytics
+- MLOps & Model Deployment
+- Predictive Modeling
 
 </td>
 <td width="33%">
 
-### 💻 **Development Excellence**
-- 🌐 Full-Stack Web Development
-- 📱 Mobile App Development
-- 🏗️ System Design & Architecture
-- 🗄️ Database Design & Optimization
-- ⚡ Performance Optimization
-- 🔒 Security Implementation
+### Development Skills
+- Full-Stack Web Development
+- Mobile App Development
+- System Design & Architecture
+- Database Design & Optimization
+- Performance Optimization
+- Security Implementation
 
 </td>
 <td width="33%">
 
-### 🚀 **Innovation Frontiers**
-- 🌐 IoT Systems & Embedded Programming
-- ☁️ Cloud Computing & DevOps
-- 🔗 Blockchain & Web3 Technologies
-- 🏆 Competitive Programming
-- 🤖 Automation & Scripting
-- 📈 Scalable System Design
+### Specialized Areas
+- IoT Systems & Embedded Programming
+- Cloud Computing & DevOps
+- Blockchain & Web3 Technologies
+- Competitive Programming
+- Automation & Scripting
+- Scalable System Design
 
 </td>
 </tr>
@@ -252,15 +223,13 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-    🐍 CONTRIBUTION SNAKE ANIMATION 🐍
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-  </h1>
+  <h2>Contribution Heatmap</h2>
+  <img src="https://ghchart.rshah.org/00ff41/AbhishekGiri2004" alt="GitHub Contribution Chart" width="90%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbhishekGiri2004/AbhishekGiri2004/output/snake.svg" alt="Snake eating my contributions" />
+  <h3>Coding Activity</h3>
+  <img src="https://wakatime.com/share/@AbhishekGiri2004/c8ad5d7e-8b6f-4f85-9d4a-8c5f2e3a1b9c.svg" alt="Coding Activity" width="70%" />
 </div>
 
 ---
@@ -268,37 +237,29 @@ print(f"Mission: {developer.current_mission()}")
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2>💭 Elite Developer Wisdom</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming&width=800&height=200" />
+  <h3>Developer Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quoteCategory=programming" />
 </div>
 
 ---
 
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="45">
-    🎯 DEVELOPER DNA 🎯
-    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="45">
-  </h1>
+  <h2>Professional Philosophy</h2>
 </div>
 
 <div align="center">
 
 ```javascript
-const developerDNA = {
-    🌙: "Night owl coder - peak performance after midnight",
-    ☕: "Coffee-driven development - fuel for innovation",
-    🎵: "Lo-fi beats companion - coding soundtrack master",
-    🎮: "Gaming logic applied to problem-solving",
-    📚: "Continuous learner - always exploring new tech",
-    🤝: "Open source advocate - sharing knowledge globally",
-    🎯: "Perfectionist mindset - optimizing every line",
-    🚀: "Visionary builder - creating tomorrow's solutions",
-    💡: "Innovation catalyst - turning ideas into reality",
-    🔥: "Passion-driven coder - living the developer dream"
+const professionalProfile = {
+    workStyle: "Focused and detail-oriented development",
+    approach: "Clean code and scalable architecture",
+    learning: "Continuous skill enhancement",
+    collaboration: "Open source contribution and teamwork",
+    goals: "Building impactful technology solutions",
+    values: "Quality, innovation, and user experience"
 };
 
-console.log("🚀 Ready to revolutionize the tech world!");
+console.log("Ready to create exceptional software solutions!");
 ```
 
 </div>
@@ -308,7 +269,7 @@ console.log("🚀 Ready to revolutionize the tech world!");
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>📊 ELITE METRICS DASHBOARD</h1>
+  <h2>Profile Metrics</h2>
 </div>
 
 <div align="center">
@@ -323,18 +284,12 @@ console.log("🚀 Ready to revolutionize the tech world!");
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=250&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=blinking&fontAlignY=70&desc=Let's%20Code%20the%20Future%20Together!&descAlignY=90&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thank%20You&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
-  <br><br>
-  <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-    "Code is poetry written in logic, and I'm the poet of innovation!" 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  </h2>
   <br>
-  <h3>🌟 Ready to collaborate on groundbreaking projects? Let's connect! 🌟</h3>
-  <h3>💡 Open to opportunities, partnerships, and tech innovations! 💡</h3>
-  <h3>🚀 Together, we can build the future of technology! 🚀</h3>
+  <h3>"Clean code always looks like it was written by someone who cares." - Robert C. Martin</h3>
+  <br>
+  <p><strong>Open to collaboration opportunities and innovative projects.</strong></p>
+  <p><strong>Let's connect and build something amazing together!</strong></p>
 </div>
